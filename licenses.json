@@ -1,7 +1,7 @@
 {
-  "licensed_machines":[
-    "123456789",
-    "987654321",
-    "113780617491"
+  "licenses": [
+    "ABCD-EFGH-IJKL",
+    "XXXX-YYYY-ZZZZ",
+    "1D55-9085-9BFF"
   ]
 }
